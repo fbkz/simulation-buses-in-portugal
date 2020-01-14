@@ -2,6 +2,8 @@
 A OOP program to simulate different types of buses travelling around portuguese cities - Cascais, Lisboa, Coimbra, Porto and Braga.
 An employee will have access to the operation view and can perform some actions such as stopping the bus or changing its driver.
 
+Run 'projv1/dist/PROJETO BAT.bat' to execute the simulation.
+
 <h2 align="center"> Simulation </h3>
 <p align="center">
 
